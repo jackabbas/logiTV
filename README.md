@@ -1,0 +1,1 @@
+"This playlist is created solely for educational purposes and is not intended for sale or commercial distribution. The content provided is for learning and personal use only. Any unauthorized commercial use, distribution, or sale of this playlist is strictly prohibited."
