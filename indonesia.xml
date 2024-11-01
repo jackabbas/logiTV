@@ -1,0 +1,892 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv><channel id="ABC.Australia.id">
+    <display-name lang="id">ABC Australia</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Al.Jazeera.English.id">
+    <display-name lang="id">Al Jazeera English</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Al.Quran.Al.Kareem.id">
+    <display-name lang="id">Al Quran Al Kareem</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Animax.id">
+    <display-name lang="id">Animax</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="ANTV.id">
+    <display-name lang="id">ANTV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Arirang.id">
+    <display-name lang="id">Arirang</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="AXN.id">
+    <display-name lang="id">AXN</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="AXN.HD.id">
+    <display-name lang="id">AXN HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="BBC.Earth.id">
+    <display-name lang="id">BBC Earth</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="BBC.Earth.HD.id">
+    <display-name lang="id">BBC Earth HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="BBC.World.News.id">
+    <display-name lang="id">BBC World News</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Bloomberg.id">
+    <display-name lang="id">Bloomberg</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="BTV.id">
+    <display-name lang="id">BTV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CBeebies.id">
+    <display-name lang="id">CBeebies</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CCM.id">
+    <display-name lang="id">CCM</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Celebrities.TV.id">
+    <display-name lang="id">Celebrities TV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Celestial.Movies.id">
+    <display-name lang="id">Celestial Movies</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CGTN.id">
+    <display-name lang="id">CGTN</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CGTN.Documentary.id">
+    <display-name lang="id">CGTN Documentary</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Channel.News.Asia.id">
+    <display-name lang="id">Channel News Asia</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI.id">
+    <display-name lang="id">CINEMACHI</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI.ACTION.id">
+    <display-name lang="id">CINEMACHI ACTION</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI.ACTION.HD.id">
+    <display-name lang="id">CINEMACHI ACTION HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI.HD.id">
+    <display-name lang="id">CINEMACHI HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI.KIDS.id">
+    <display-name lang="id">CINEMACHI KIDS</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI.KIDS.HD.id">
+    <display-name lang="id">CINEMACHI KIDS HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI.MAX.id">
+    <display-name lang="id">CINEMACHI MAX</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI.MAX.HD.id">
+    <display-name lang="id">CINEMACHI MAX HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI.XTRA.id">
+    <display-name lang="id">CINEMACHI XTRA</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI.XTRA.HD.id">
+    <display-name lang="id">CINEMACHI XTRA HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CNBC.id">
+    <display-name lang="id">CNBC</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Crime.Investigation.id">
+    <display-name lang="id">Crime Investigation</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Dreamworks.id">
+    <display-name lang="id">Dreamworks</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="DW.English.id">
+    <display-name lang="id">DW English</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Entertainment.id">
+    <display-name lang="id">Entertainment</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="EURONEWS.id">
+    <display-name lang="id">EURONEWS</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Fight.Sports.id">
+    <display-name lang="id">Fight Sports</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FMN.id">
+    <display-name lang="id">FMN</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FOX.News.id">
+    <display-name lang="id">FOX News</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="France.24.English.id">
+    <display-name lang="id">France 24 English</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Galaxy.id">
+    <display-name lang="id">Galaxy</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Galaxy.Premium.id">
+    <display-name lang="id">Galaxy Premium</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Global.Trekker.id">
+    <display-name lang="id">Global Trekker</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="GTV.id">
+    <display-name lang="id">GTV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="GTV.HD.id">
+    <display-name lang="id">GTV HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="History.id">
+    <display-name lang="id">History</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="HITS.id">
+    <display-name lang="id">HITS</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="HITS.MOVIES.id">
+    <display-name lang="id">HITS MOVIES</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="HITS.MOVIES.HD.id">
+    <display-name lang="id">HITS MOVIES HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="IDX.id">
+    <display-name lang="id">IDX</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="IDX.HD.id">
+    <display-name lang="id">IDX HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="IMC.id">
+    <display-name lang="id">IMC</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Indosiar.id">
+    <display-name lang="id">Indosiar</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="iNews.id">
+    <display-name lang="id">iNews</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="iNews.HD.id">
+    <display-name lang="id">iNews HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="JAKTV.id">
+    <display-name lang="id">JAKTV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Kids.TV.id">
+    <display-name lang="id">Kids TV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="KIX.id">
+    <display-name lang="id">KIX</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Kompas.TV.id">
+    <display-name lang="id">Kompas TV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="LIFE.id">
+    <display-name lang="id">LIFE</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Lifetime.id">
+    <display-name lang="id">Lifetime</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Love.Nature.id">
+    <display-name lang="id">Love Nature</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Love.Nature.HD.id">
+    <display-name lang="id">Love Nature HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Metro.TV.id">
+    <display-name lang="id">Metro TV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MNCTV.id">
+    <display-name lang="id">MNCTV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MNCTV.HD.id">
+    <display-name lang="id">MNCTV HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MTV.90's.id">
+    <display-name lang="id">MTV 90's</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MTV.LIVE.id">
+    <display-name lang="id">MTV LIVE</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Music.TV.id">
+    <display-name lang="id">Music TV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Muslim.TV.id">
+    <display-name lang="id">Muslim TV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="My.Cinema.id">
+    <display-name lang="id">My Cinema</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="My.Cinema.Asia.id">
+    <display-name lang="id">My Cinema Asia</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="My.Family.id">
+    <display-name lang="id">My Family</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="My.Kidz.id">
+    <display-name lang="id">My Kidz</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="NET.TV.id">
+    <display-name lang="id">NET TV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="NHK.World.id">
+    <display-name lang="id">NHK World</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="NHK.World.Premium.id">
+    <display-name lang="id">NHK World Premium</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Nick.Jr..HD.id">
+    <display-name lang="id">Nick Jr. HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Nickelodeon.id">
+    <display-name lang="id">Nickelodeon</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Nickelodeon.Jr.id">
+    <display-name lang="id">Nickelodeon Jr</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="OK.TV.id">
+    <display-name lang="id">OK TV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Okezone.TV.id">
+    <display-name lang="id">Okezone TV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="ONE.id">
+    <display-name lang="id">ONE</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="ONE.HD.id">
+    <display-name lang="id">ONE HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Outdoor.Channel.id">
+    <display-name lang="id">Outdoor Channel</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Outdoor.channel.HD.id">
+    <display-name lang="id">Outdoor channel HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="PARAMOUNT.id">
+    <display-name lang="id">PARAMOUNT</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="PARAMOUNT.HD.id">
+    <display-name lang="id">PARAMOUNT HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="RCTI.id">
+    <display-name lang="id">RCTI</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="RCTI.HD.id">
+    <display-name lang="id">RCTI HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Rock.Action.id">
+    <display-name lang="id">Rock Action</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Rock.Entertainment.id">
+    <display-name lang="id">Rock Entertainment</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SCTV.id">
+    <display-name lang="id">SCTV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SEA.TODAY.id">
+    <display-name lang="id">SEA TODAY</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sindo.News.TV.id">
+    <display-name lang="id">Sindo News TV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sindo.News.TV.HD.id">
+    <display-name lang="id">Sindo News TV HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Soccer.Channel.id">
+    <display-name lang="id">Soccer Channel</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Soccer.Channel.HD.id">
+    <display-name lang="id">Soccer Channel HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sportstars.id">
+    <display-name lang="id">Sportstars</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sportstars.2.id">
+    <display-name lang="id">Sportstars 2</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sportstars.2.HD.id">
+    <display-name lang="id">Sportstars 2 HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sportstars.3.id">
+    <display-name lang="id">Sportstars 3</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sportstars.4.id">
+    <display-name lang="id">Sportstars 4</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sportstars.4.HD.id">
+    <display-name lang="id">Sportstars 4 HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sportstars.HD.id">
+    <display-name lang="id">Sportstars HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SPOTV.id">
+    <display-name lang="id">SPOTV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SPOTV.2.id">
+    <display-name lang="id">SPOTV 2</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SPOTV.2.HD.id">
+    <display-name lang="id">SPOTV 2 HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SPOTV.HD.id">
+    <display-name lang="id">SPOTV HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Tawaf.TV.id">
+    <display-name lang="id">Tawaf TV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Thrill.id">
+    <display-name lang="id">Thrill</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Trans.7.id">
+    <display-name lang="id">Trans 7</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Trans.TV.id">
+    <display-name lang="id">Trans TV</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="tvN.id">
+    <display-name lang="id">tvN</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="tvN.HD.id">
+    <display-name lang="id">tvN HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="tvN.Movies.id">
+    <display-name lang="id">tvN Movies</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="tvN.Movies.HD.id">
+    <display-name lang="id">tvN Movies HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="tvOne.id">
+    <display-name lang="id">tvOne</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="TVRI.id">
+    <display-name lang="id">TVRI</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Vision.Prime.id">
+    <display-name lang="id">Vision Prime</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Vision.Prime.HD.id">
+    <display-name lang="id">Vision Prime HD</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Zee.Bioskop.id">
+    <display-name lang="id">Zee Bioskop</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Zoomoo.id">
+    <display-name lang="id">Zoomoo</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="DAAI.TV.id">
+    <display-name lang="en">DAAI TV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Fashion.TV.Midnight.Secrets.id">
+    <display-name lang="en">Fashion TV Midnight Secrets</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Fashion.TV.-.Global.id">
+    <display-name lang="en">Fashion TV - Global</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="FashionTV.L’Original.id">
+    <display-name lang="en">FashionTV L’Original</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Jaktv.id">
+    <display-name lang="en">Jaktv</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="RTV.id">
+    <display-name lang="en">RTV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Bein.3.id">
+    <display-name lang="en">Bein 3</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Premier.League.TV.id">
+    <display-name lang="en">Premier League TV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="TRANS.TV.id">
+    <display-name lang="en">TRANS TV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Trans7.id">
+    <display-name lang="en">Trans7</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Bein.1.id">
+    <display-name lang="en">Bein 1</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Champions.TV.6.id">
+    <display-name lang="en">Champions TV 6</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="TVOne.id">
+    <display-name lang="en">TVOne</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="NBA.TV.id">
+    <display-name lang="en">NBA TV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Champions.TV.3.id">
+    <display-name lang="en">Champions TV 3</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Champions.TV.1.id">
+    <display-name lang="en">Champions TV 1</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="AJWA.TV.id">
+    <display-name lang="en">AJWA TV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Moji.id">
+    <display-name lang="en">Moji</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="HBO.HD.id">
+    <display-name lang="id">HBO HD</display-name>
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES/HBO HD-FirstMedia-Chl-305.jpg" />
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES/HBO HD-FirstMedia-Chl-305.jpg" />
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HBO.Hits.HD.id">
+    <display-name lang="id">HBO Hits HD</display-name>
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES/HBO Hits HD-FirstMedia-Chl-306.jpg" />
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES/HBO Hits HD-FirstMedia-Chl-306.jpg" />
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HBO.Family.HD.id">
+    <display-name lang="id">HBO Family HD</display-name>
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES/HBO Family HD-FirstMedia-Chl-307.jpg" />
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES/HBO Family HD-FirstMedia-Chl-307.jpg" />
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HBO.Signature.HD.id">
+    <display-name lang="id">HBO Signature HD</display-name>
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES/HBO Signature HD-FirstMedia-Chl-308.jpg" />
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES/HBO Signature HD-FirstMedia-Chl-308.jpg" />
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="Cartoon.Network.HD.id">
+    <display-name lang="id">Cartoon Network HD</display-name>
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/6-KIDS/Cartoon Network HD-FirstMedia-Chl-370.jpg" />
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/6-KIDS/Cartoon Network HD-FirstMedia-Chl-370.jpg" />
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="Cinemax.HD.id">
+    <display-name lang="id">Cinemax HD</display-name>
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES/Cinemax HD-FirstMedia-Chl-310.jpg" />
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/9-MOVIES/Cinemax HD-FirstMedia-Chl-310.jpg" />
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="Discovery.Channel.HD.id">
+    <display-name lang="id">Discovery Channel HD</display-name>
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/1-DOCUMENTARY/Discovery Channel HD-FirstMedia-Chl-360.jpg" />
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/1-DOCUMENTARY/Discovery Channel HD-FirstMedia-Chl-360.jpg" />
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="Animal.Planet.HD.id">
+    <display-name lang="id">Animal Planet HD</display-name>
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/1-DOCUMENTARY/Animal Planet HD-FirstMedia-Chl-369.jpg" />
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/1-DOCUMENTARY/Animal Planet HD-FirstMedia-Chl-369.jpg" />
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="The.Learning.Channel.HD.-.TLC.id">
+    <display-name lang="id">The Learning Channel HD - TLC</display-name>
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/7-LIFESTYLE/TLC HD-FirstMedia-Chl-353.jpg" />
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/7-LIFESTYLE/TLC HD-FirstMedia-Chl-353.jpg" />
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="Asian.Food.Network.HD.id">
+    <display-name lang="id">Asian Food Network HD</display-name>
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/7-LIFESTYLE/Asian Food Network HD-FirstMedia-Chl-351.jpg" />
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/7-LIFESTYLE/Asian Food Network HD-FirstMedia-Chl-351.jpg" />
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="CNN.International.HD.id">
+    <display-name lang="id">CNN International HD</display-name>
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS/CNN International HD-FirstMedia-Chl-396.jpg" />
+    <icon src="https://flmngr.firstmedia.com/files/logos/channels/11-NEWS/CNN International HD-FirstMedia-Chl-396.jpg" />
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="Nusantara.TV.id">
+    <display-name lang="en">Nusantara TV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="JTV.id">
+    <display-name lang="en">JTV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="JPM.TV.id">
+    <display-name lang="en">JPM TV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Metro.Globe.Network.id">
+    <display-name lang="en">Metro Globe Network</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="CTV.1.id">
+    <display-name lang="en">CTV 1</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="CTV.5.id">
+    <display-name lang="en">CTV 5</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="CTV.3.id">
+    <display-name lang="en">CTV 3</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="CTV.2.id">
+    <display-name lang="en">CTV 2</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="CTV.6.id">
+    <display-name lang="en">CTV 6</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Liverpool.TV.id">
+    <display-name lang="en">Liverpool TV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="TVN.id">
+    <display-name lang="en">TVN</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="MUSICA.id">
+    <display-name lang="en">MUSICA</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="ROCK.Entertainment.id">
+    <display-name lang="en">ROCK Entertainment</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="RANS.Channel.id">
+    <display-name lang="en">RANS Channel</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Elshinta.TV.id">
+    <display-name lang="en">Elshinta TV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Magna.TV.id">
+    <display-name lang="en">Magna TV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Aljazeera.id">
+    <display-name lang="en">Aljazeera</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="NHK.World.Japan.id">
+    <display-name lang="en">NHK World Japan</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="News.Asia.id">
+    <display-name lang="en">News Asia</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="AFRICANEWS.TV.id">
+    <display-name lang="en">AFRICANEWS TV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Euro.News.id">
+    <display-name lang="en">Euro News</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="TV.Tempo.id">
+    <display-name lang="en">TV Tempo</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Mentari.TV.id">
+    <display-name lang="en">Mentari TV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Hip.Hip.Horee!.id">
+    <display-name lang="en">Hip Hip Horee!</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Horee.id">
+    <display-name lang="en">Horee</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Makkah.TV.id">
+    <display-name lang="en">Makkah TV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Reformed.21.TV.id">
+    <display-name lang="en">Reformed 21 TV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="U-Channel.TV.id">
+    <display-name lang="en">U-Channel TV</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Prambors.On.Air.id">
+    <display-name lang="en">Prambors On Air</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Delta.FM.id">
+    <display-name lang="en">Delta FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="i-Radio.id">
+    <display-name lang="en">i-Radio</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Gen.FM.Jakarta.id">
+    <display-name lang="en">Gen FM Jakarta</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Elshinta.90.FM.id">
+    <display-name lang="en">Elshinta 90 FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Kis.FM.id">
+    <display-name lang="en">Kis FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Jak.FM.id">
+    <display-name lang="en">Jak FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Hard.Rock.FM.id">
+    <display-name lang="en">Hard Rock FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Ardan.Radio.id">
+    <display-name lang="en">Ardan Radio</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Bahana.FM.id">
+    <display-name lang="en">Bahana FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Female.FM.id">
+    <display-name lang="en">Female FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Sonora.Radio.id">
+    <display-name lang="en">Sonora Radio</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Hot.FM.id">
+    <display-name lang="en">Hot FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Dahlia.FM.id">
+    <display-name lang="en">Dahlia FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="SWARAGAMA.FM.Jogja.!.id">
+    <display-name lang="en">SWARAGAMA FM Jogja !</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Mustang.FM.id">
+    <display-name lang="en">Mustang FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Brava.Radio.id">
+    <display-name lang="en">Brava Radio</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Rama.FM.id">
+    <display-name lang="en">Rama FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="ELGANGGA.id">
+    <display-name lang="en">ELGANGGA</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="TRAX.id">
+    <display-name lang="en">TRAX</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="GAJAHMADA.id">
+    <display-name lang="en">GAJAHMADA</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Gen.FM.Surabaya.id">
+    <display-name lang="en">Gen FM Surabaya</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Motion.Radio.id">
+    <display-name lang="en">Motion Radio</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Elfara.FM.Malang.id">
+    <display-name lang="en">Elfara FM Malang</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Imelda.FM.id">
+    <display-name lang="en">Imelda FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="NAGASWARA.RADIOTEMEN.id">
+    <display-name lang="en">NAGASWARA RADIOTEMEN</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Paramuda.FM.id">
+    <display-name lang="en">Paramuda FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Radio.Cakra.id">
+    <display-name lang="en">Radio Cakra</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Smart.FM.id">
+    <display-name lang="en">Smart FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Cosmopolitan.Radio.id">
+    <display-name lang="en">Cosmopolitan Radio</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="ELMITRA.id">
+    <display-name lang="en">ELMITRA</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="MGTRADIO.id">
+    <display-name lang="en">MGTRADIO</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="JIZ.FM.id">
+    <display-name lang="en">JIZ FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="SWARA.SEMARANG.id">
+    <display-name lang="en">SWARA SEMARANG</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Most.FM.id">
+    <display-name lang="en">Most FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="CLASSY.103.4.FM.id">
+    <display-name lang="en">CLASSY 103.4 FM</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+  <channel id="Sushi.Radio.id">
+    <display-name lang="en">Sushi Radio</display-name>
+    <url>http://www.vidio.com</url>
+  </channel>
+</tv>
