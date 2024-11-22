@@ -4,5 +4,5 @@
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 #KODIPROP:tvg-url=https://www.bevy.be/generate/FFMbHrECVJ.xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Dalvik/2.1.0 (Linux; U; Android 10; TH-55LX800G Build/QTS1.200805.001; Android TV)
-#EXTHTTP:eyJkdC1jdXN0b20tZGF0YSI6IHsidXNlcklkIjogInJlYWN0LWp3LXBsYXllciIsICJzZXNzaW9uSWQiOiAiMTIzNDU2Nzg5IiwgIm1lcmNoYW50IjogImdpaXRkX3RyYW5zdmlzaW9uIn19
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.referrer=https://www.cubmu.com/
